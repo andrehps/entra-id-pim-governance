@@ -8,4 +8,4 @@ The image below confirms the architecture deployment within the "Blue Safe" tena
 ### 2. Operational Workflow: Group-Based Approval & Auditing Pipeline
 When an activation request is triggered, the platform successfully intercepts it. The request remains sandboxed under **Requests for role activations** awaiting official approval. Note the mandatory integration of compliance ticketing trackers under the **Reason** auditing metadata (e.g., `Tickets SB0956`):
 
-![PIM Activation Pending Approval](workflow approval.png.png)
+![PIM Activation Pending Approval](workflow-approval.png)
